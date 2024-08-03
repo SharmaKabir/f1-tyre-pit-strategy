@@ -147,3 +147,8 @@ def pick_best(number_of_laps):
     return best_time/60, best_time%60, best_c1, best_c2
  
 print(pick_best(int((input("Enter Number Of Laps: ")))))
+
+
+# Hard tires ('H'): (base+2.5)×(1.001)^age
+# Medium tires ('M'): (base+1.6)×(1.003)^age
+# Soft tires ('S'): base×(1.005)agebase×(1.005)^age
