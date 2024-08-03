@@ -40,3 +40,7 @@ The project supports three types of tyres:
  When prompted, enter the number of laps you want to simulate. The script will then calculate and display the optimal tyre strategy and its total time.
  The script will print the best tyre combination, the total race time in minutes and seconds and a plot comparing the lap times for the selected tyre strategies.
 
+
+## Screenshots
+ ![alt text](https://github.com/SharmaKabir/f1-tyre-strategy/blob/main/screenshot-1.png?raw=true)
+
