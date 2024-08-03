@@ -1,6 +1,6 @@
 # f1-tyre-pit-strategy
 ## Overview
-(This project was made in early 2023)
+(This project was made in early 2023)<br/>
 This project provides a tool for optimizing tyre strategies in a racing simulation. It evaluates different tyre combinations and determines the best pit stop strategy to minimize total lap time over a given number of laps. The tool also plots the lap times for different strategies to visually compare their effectiveness.
 
 ## Features
